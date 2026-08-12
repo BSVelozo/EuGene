@@ -6,7 +6,7 @@ O projeto é mantido pelo Laboratório de Bioinformática da Universidade Federa
 
 —
 
- 🚀 Funcionalidades principais:
+### Funcionalidades principais:
 - 5 níveis de dificuldade, que simulam diferentes tipos de alinhamento BLAST:
   - Nível 1: blastn – encontre seu nome no DNA
   - Nível 2: blastp – encontre seu nome na proteína
